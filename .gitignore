@@ -1,0 +1,8 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+*.tfvars.json
+
+# Generated output - keep the repo clean, this is what apply creates
+project/

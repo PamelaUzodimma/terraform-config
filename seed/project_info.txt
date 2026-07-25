@@ -1,0 +1,3 @@
+Project: Platform Engineering Assignment
+Owner: Pamela Uzodimma
+Purpose: Demonstrates core Terraform concepts using local-only resources
